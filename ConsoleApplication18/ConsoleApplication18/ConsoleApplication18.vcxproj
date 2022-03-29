@@ -142,7 +142,10 @@
     <ClCompile Include="ConsoleApplication18.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="Laborer.h" />
+    <ClInclude Include="Manager.h" />
+    <ClInclude Include="Owner.h" />
+    <ClInclude Include="Person.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
